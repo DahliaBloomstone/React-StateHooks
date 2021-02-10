@@ -1,5 +1,6 @@
+/* //We import the useState Hook from React. It lets us keep local state in a function component.
 import React, { useState } from 'react';
-import './App.css';
+import './App.css'
 
 const App = () => {
   // Declare a new state variable, which we'll call "count"
